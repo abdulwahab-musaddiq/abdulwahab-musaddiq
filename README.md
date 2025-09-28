@@ -15,8 +15,8 @@ Hello i'm a student at Information Technology University ITU. My field is manage
 <img src= "https://skills.syvixor.com/api/icons?i=chatgpt,deepseek,googlegemini,python,canva,visualstudiocode" />
 <p>
 </p>
+  
 <h1>
   Projects with repo links:
 </h1>
-
-
+https://tiangolo.com/github-fastapi/
