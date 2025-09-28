@@ -10,5 +10,5 @@ Hello i'm a student at Information Technology University ITU. My field is manage
   Skills set: 
 </h1>
 <a href= "https://github.com/abdulwahab-musaddiq">
-  <img height= "10%" width ="20%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE699ACycg3u_areb3J8I6tvbcinJ-4lSFXg&s">
+  <img height= "10%" width ="20%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxF1t8-pCeQcDho8wYUJz8O2VB0YvTbvRaaw&s">
 </a>
