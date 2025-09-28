@@ -15,6 +15,6 @@ Hello i'm a student at Information Technology University ITU. My field is manage
 
 <a href= "https://github.com/abdulwahab-musaddiq">
   <p align="left">
-<a href= "https://skills.syvixor.com/api/icons?perline=15&i=chatgpt"/>
+<img src= "https://skills.syvixor.com/api/icons?perline=15&i=chatgpt"/>
 <p>
 </p>
