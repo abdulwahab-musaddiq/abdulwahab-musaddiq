@@ -9,13 +9,10 @@ Hello i'm a student at Information Technology University ITU. My field is manage
 <h1>
   Skills set: 
 </h1>
-<!--a href= "https://github.com/abdulwahab-musaddiq">
-  <img height= "5%" width ="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxF1t8-pCeQcDho8wYUJz8O2VB0YvTbvRaaw&s">
-</a>
 
 <a href= "https://github.com/abdulwahab-musaddiq">
   <p align="left">
-<img src= "https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" />
+<img src= "https://skills.syvixor.com/api/icons?i=chatgpt,deepseek" />
 <p>
 </p>
 
