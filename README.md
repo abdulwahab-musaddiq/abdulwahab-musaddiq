@@ -19,4 +19,5 @@ Hello i'm a student at Information Technology University ITU. My field is manage
 <h1>
   Projects with repo links:
 </h1>
+https://github.com/faif/python-patterns
 https://tiangolo.com/github-fastapi/
