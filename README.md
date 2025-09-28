@@ -12,7 +12,7 @@ Hello i'm a student at Information Technology University ITU. My field is manage
 
 <a href= "https://github.com/abdulwahab-musaddiq">
   <p align="left">
-<img src= "https://skills.syvixor.com/api/icons?i=chatgpt,deepseek" />
+<img src= "https://skills.syvixor.com/api/icons?i=chatgpt,deepseek,googlegemini" />
 <p>
 </p>
 
